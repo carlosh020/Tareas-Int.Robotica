@@ -13,3 +13,4 @@ Las entradas 11 y 12 nos permiten ajustar las velocidades de los motores 1 y 2 r
 24/06/2024
 Actualización README: 
 Añadimos codigo de arduino con calibración y programa que sigue linea con dos motores conectados por puente H y sensores de proximodad por reflactancia de luz.
+El link adjuntado a tinkercard muestra un ejemplo de como trabajamos los motores y los giros antes de manejar el arduino.
