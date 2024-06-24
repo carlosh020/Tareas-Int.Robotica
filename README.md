@@ -8,3 +8,8 @@ Giro hacia la izquierda, atraves del pin 3 de arduino.
 Giro hacia la derecha, atraves del pin 4 de arduino.
 A traves de Las entradas 7, 8, 9, 10 en arduino controlamos la direccion de los motores.
 Las entradas 11 y 12 nos permiten ajustar las velocidades de los motores 1 y 2 respectivamente gracias al PWM.
+
+
+24/06/2024
+Actualización README: 
+Añadimos codigo de arduino con calibración y programa que sigue linea con dos motores conectados por puente H y sensores de proximodad por reflactancia de luz.
